@@ -2,7 +2,7 @@
 
 Derek Han Faira Interview Questions August 2nd, 2016
 
-What is a <div> and what is a <span>? When does it make sense to use one instead of the other?
+What is a &#60;div> and what is a <span>? When does it make sense to use one instead of the other?
 
 A <div> is an HTML tag that is used to divide up content inside of a webpage. Content inside of a <div> element can be manipulated via CSS or Javascript. A <span> is an HTML tag that is used to ‘target’ or ‘tag’ specific content on a webpage, it can be found within a <div> element but a <div> is generally not found nested inside of a <span> tag.
 
