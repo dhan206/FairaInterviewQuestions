@@ -26,12 +26,10 @@ Bootstrap is a powerful library that can help a webpage satisfy responsive desig
 #Give an example of a technology or technique which you learned about recently which you thought was particularly interesting. 
 I recently implemented schema.org’s markup on three of my current employer’s websites. Each website receives around 2 million visitors a month. It allows for Google to scrape the webpage/website for the company’s logo, name, social media profiles, description, etc and display this information on the search page. This helps increase page ranking on Google and similar search engines. I also implemented this markup on all of our reviews, blogpostings, and affiliate offers pages to increase the rankings, resulting in higher revenue.
 
-Provide the solution to one of the two problems below:
+#Provide the solution to one of the two problems below:
 
-
-#Problem 1: Provide the skeleton for a Web page which contains 10 images. Whenever the user positions the mouse over one of the images, all other images become black and white. The solution needs to include all necessary code.
+Problem 1: Provide the skeleton for a Web page which contains 10 images. Whenever the user positions the mouse over one of the images, all other images become black and white. The solution needs to include all necessary code.
 
 https://github.com/dhan206/FairaInterviewQuestions
 
-Problem 2: Define the basic HTML and CSS for a page with these elements: • A header which spans the whole horizontal width of the page. • Two columns of content, side-by-side, each with a width of 300 pixels and which appear centered on the page even when the browser’s window is wider than 600 pixels. • A footer which spans the whole horizontal width of the page. 
 
