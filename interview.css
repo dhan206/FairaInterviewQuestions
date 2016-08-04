@@ -1,0 +1,10 @@
+.pokemon_image {
+    display: inline-block;
+    margin: 25px;
+}
+
+.black_and_white {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
