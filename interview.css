@@ -1,6 +1,7 @@
 .pokemon_image {
     display: inline-block;
     margin: 25px;
+    -webkit-transition : -webkit-filter 300ms ease;
 }
 
 .black_and_white {
